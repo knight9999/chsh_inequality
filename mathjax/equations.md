@@ -19,8 +19,12 @@ $$
 \begin{aligned}
  & \left( \cos \frac{θ}{2} | \, 0  \rangle + \sin \frac{θ}{2} | \, 1 \rangle \right)
  \otimes |\, 0 \rangle \\
- & = \cos \frac{θ}{2} | 00 \rangle + \sin \frac{θ}{2} | 11  \rangle 
+ & = \cos \frac{θ}{2} | 00 \rangle + \sin \frac{θ}{2} | 10  \rangle 
 \end{aligned}
+$$
+
+$$
+ \cos \frac{θ}{2} | 00 \rangle + \sin \frac{θ}{2} | 11  \rangle 
 $$
 
 
