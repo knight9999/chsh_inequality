@@ -58,7 +58,8 @@ def main():
         result = experimentD(x, shots)
         ys.append(result["D"])
 
-    print(ys)
+    for (x,y) in zip (xs,ys):
+        print(x,y)
 
     fig = plt.figure()
 
