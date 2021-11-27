@@ -70,7 +70,7 @@ def main():
     plt.legend()
     plt.xlabel('x')
     plt.ylabel('y')
-    plt.text( -1/2*np.pi+0.1, 0.6, 'θ=-π/4', ha='left', va='center')
+    plt.text( -1/2*np.pi+0.1, 0.6, 'θ=-π/2', ha='left', va='center')
     plt.text( -7/8*np.pi+0.1, 1.1, 'θ=-7π/8', ha='left', va='center')
     plt.text( -1/8*np.pi+0.1, 0.8, 'θ=-π/8', ha='left', va='center')
     plt.title('CHSH Inequality')
